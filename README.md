@@ -12,3 +12,5 @@
                         .:#t      #G      E#      fE   i       tDj                         8 8
 
 ```
+
+hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif">
