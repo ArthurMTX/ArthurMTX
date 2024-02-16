@@ -14,3 +14,5 @@
 ```
 
 hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="10px">
+
+<!-- wrath :)))))))) ᕙ(⇀‸↼⁠‶)ᕗ -->
