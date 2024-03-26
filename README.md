@@ -1,5 +1,4 @@
 ```
-
                                     t       t GEEEEEEEL                                    8 8
                                   ,W,     .Et ,;;L#K;;.:KW,      L                      ad88888ba
                                  t##,    ,W#t    t#E    ,#W:   ,KG                     d8" 8 8 "8b
@@ -10,7 +9,6 @@
                           .D#L    ###K:   E#t    t#E    iWf  i#K.                      Y8a 8 8 a8P
                          :K#t     ##D.    E#t    t#E   LK:    t#E                       "Y88888P"
                         .:#t      #G      E#      fE   i       tDj                         8 8
-
 ```
 
 hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="10px">
