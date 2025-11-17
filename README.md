@@ -11,9 +11,9 @@
                         .:#t      #G      E#      fE   i       tDj                         8 8
 ```
 
-### Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="10px">, I’m Arthur - DevOps & Infrastructure Engineer
+### Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="10px">, I’m Arthur - DevOps / SecOps & Infrastructure Engineer
 
-I build backend systems, automation tooling, and infrastructure with Docker, Linux, Python, and IaC.
+I build secure backend systems, automation tooling, and infrastructure with Docker, Linux, Python, and IaC.
 Currently building:
 - 📈 Portfolium (investment tracking full-stack platform)
 - 🖥️ Virtuose (dynamic VM orchestration full-stack platform)
